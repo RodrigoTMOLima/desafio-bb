@@ -6,7 +6,7 @@
 
 API para gerenciar imagens de usuários desenvolvida com FastAPI, PostgreSQL e Docker.
 
-## Instruções de uso
+## Instruções para uso
 
 1. Baixe o repositório:
 
