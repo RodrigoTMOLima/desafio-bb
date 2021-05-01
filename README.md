@@ -2,13 +2,9 @@
 - Autor: Rodrigo Touriño Machado de Oliveira Lima
 - Data: 2021-05-02
 
----
-
 ## Descrição
 
 API para gerenciar imagens de usuários desenvolvida com FastAPI, PostgreSQL e Docker.
-
----
 
 ## Instruções de uso
 
