@@ -14,13 +14,13 @@ API para gerenciar imagens de usuários desenvolvida com FastAPI, PostgreSQL e D
 $ git clone https://github.com/rodrigotlima/desafio-bb.git
 ```
 
-2. Acesse o diretório raiz que contém o arquivo `docker-compose.yml` buildar as imagens e rodar os containers:
+2. No diretório raiz que contém o arquivo `docker-compose.yml`, construa as imagens e rode os containers:
 
 ```sh
 $ docker-compose up -d --build
 ```
 
-3. Acesse o endereço [http://localhost/docs](http://localhost/docs) para verificar a documentação Swagger gerada automaticamente
+3. Para verificar a documentação Swagger gerada automaticamente, acesse o endereço [http://localhost/docs](http://localhost/docs) 
 
 4. Para testar a aplicação:
 
