@@ -1,0 +1,6 @@
+fastapi==0.63.0
+uvicorn==0.13.4
+SQLAlchemy==1.4.12
+psycopg2==2.8.6
+alembic==1.5.8
+Pillow==8.2.0
