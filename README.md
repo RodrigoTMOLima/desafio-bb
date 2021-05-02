@@ -30,8 +30,8 @@ $ docker exec -t <nome_do_container_web> pytest
 
 ## Arquitetura da Solução
 
-![Solution Architecture Diagram](./docs/Solution Architecture Diagram.png)
+![Solution Architecture Diagram](docs/Solution Architecture Diagram.png)
 
 ## Diagrama Entidade-Relacionamento
 
-![Database Entity-Relationship Diagram](./docs/Database Entity-Relationship Diagram.png)
+![Database Entity-Relationship Diagram](docs/Database Entity-Relationship Diagram.png)
